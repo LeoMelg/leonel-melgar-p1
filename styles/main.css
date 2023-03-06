@@ -1,0 +1,42 @@
+html{
+    background-color:beige;
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size:100%;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+ul{line-height:1.5;}
+
+header {
+    font-size:225%;
+    color:darkblue;
+    text-align: center;
+}
+main{clear:left;}
+main h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 200%;
+    color:darkblue;
+
+}
+main h2{color:darkblue;}
+main h3{color:darkblue;}
+main h4{color:darkblue;}
+li{
+    font-size: 98%;
+    color:darkblue;
+}
+footer {
+    font-size: 85%;
+    text-align: right;
+    color:darkblue;
+}
+em{
+    font-weight:bold;
+}
+#donations{
+    font-size: 120%;
+}
